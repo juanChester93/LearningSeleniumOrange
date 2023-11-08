@@ -1,0 +1,5 @@
+07.11.2023 11:12:04,194 INFO  LoginPage:29 - Username has been entered in the specified text box
+07.11.2023 11:12:04,273 INFO  LoginPage:31 - Password has been entered in the specified text box
+07.11.2023 11:12:04,319 INFO  LoginPage:33 - The login button has been clicked
+07.11.2023 11:12:06,032 INFO  HomePage:34 - Profile button has been clicked
+07.11.2023 11:12:07,640 INFO  HomePage:36 - Logout link has been clicked

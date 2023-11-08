@@ -1,0 +1,20 @@
+07.11.2023 11:14:36,222 INFO  LoginPage:29 - Username has been entered in the specified text box
+07.11.2023 11:14:36,321 INFO  LoginPage:31 - Password has been entered in the specified text box
+07.11.2023 11:14:36,412 INFO  LoginPage:33 - The login button has been clicked
+07.11.2023 11:14:37,571 INFO  HomePage:34 - Profile button has been clicked
+07.11.2023 11:14:38,941 INFO  HomePage:36 - Logout link has been clicked
+07.11.2023 12:49:26,133 INFO  LoginPage:30 - Username has been entered in the specified text box
+07.11.2023 12:49:26,400 INFO  LoginPage:33 - Password has been entered in the specified text box
+07.11.2023 12:49:26,620 INFO  LoginPage:36 - The login button has been clicked
+07.11.2023 12:49:27,685 INFO  HomePage:36 - Profile button has been clicked
+07.11.2023 12:49:28,730 INFO  HomePage:39 - Logout link has been clicked
+07.11.2023 14:05:03,914 INFO  LoginPage:30 - Username has been entered in the specified text box
+07.11.2023 14:05:04,176 INFO  LoginPage:33 - Password has been entered in the specified text box
+07.11.2023 14:05:04,390 INFO  LoginPage:36 - The login button has been clicked
+07.11.2023 14:05:05,532 INFO  HomePage:36 - Profile button has been clicked
+07.11.2023 14:05:06,856 INFO  HomePage:39 - Logout link has been clicked
+08.11.2023 16:42:15,723 INFO  LoginPage:30 - Username has been entered in the specified text box
+08.11.2023 16:42:15,983 INFO  LoginPage:33 - Password has been entered in the specified text box
+08.11.2023 16:42:16,191 INFO  LoginPage:36 - The login button has been clicked
+08.11.2023 16:42:17,568 INFO  HomePage:36 - Profile button has been clicked
+08.11.2023 16:42:18,613 INFO  HomePage:39 - Logout link has been clicked
