@@ -18,3 +18,8 @@
 08.11.2023 16:42:16,191 INFO  LoginPage:36 - The login button has been clicked
 08.11.2023 16:42:17,568 INFO  HomePage:36 - Profile button has been clicked
 08.11.2023 16:42:18,613 INFO  HomePage:39 - Logout link has been clicked
+09.11.2023 17:50:59,779 INFO  LoginPage:30 - Username has been entered in the specified text box
+09.11.2023 17:51:00,023 INFO  LoginPage:33 - Password has been entered in the specified text box
+09.11.2023 17:51:00,231 INFO  LoginPage:36 - The login button has been clicked
+09.11.2023 17:51:01,340 INFO  HomePage:36 - Profile button has been clicked
+09.11.2023 17:51:02,334 INFO  HomePage:39 - Logout link has been clicked
