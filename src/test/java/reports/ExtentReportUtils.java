@@ -19,6 +19,8 @@ public class ExtentReportUtils {
 
     public static ExtentReports report;
 
+    public int num = 0;
+
     public static void setupReport() { //this is invoked @beforesuite
         report = new ExtentReports();
         ExtentSparkReporter spark = new ExtentSparkReporter("report/execution.html");
